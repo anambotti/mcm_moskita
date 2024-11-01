@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "connectors")(type "KiCad")(uri "${KIPRJMOD}/connectors.kicad_sym")(options "")(descr ""))
+  (lib (name "MC_1278x1058_pads_8Feb2021")(type "KiCad")(uri "${KIPRJMOD}/MC_1278x1058_pads_8Feb2021.kicad_sym")(options "")(descr ""))
+)
